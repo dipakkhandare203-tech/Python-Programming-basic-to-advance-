@@ -30,7 +30,7 @@ Enter your RollNo
 1331
 Enter your Average Marks
 90.67
-Re-entered your details
+Confirm Your Details
 Name of student:- Dipak Khandare
 Age:- 20
 RollNo:- 1331

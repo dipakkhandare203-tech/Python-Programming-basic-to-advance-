@@ -29,10 +29,17 @@ print("c",c)
 #Output
 '''
 PS D:\python programmming> & "C:/Program Files/Python313/python.exe" "d:/python programmming/Variable Declaration.py"
+d:\python programmming\Variable Declaration.py:31: SyntaxWarning: invalid escape sequence '\p'
+  PS D:\python programmming> & "C:/Program Files/Python313/python.exe" "d:/python programmming/Variable Declaration.py"
 Name Dipak
 Age 21
 Pi 3.14
 Student True
-PS D:\python programmming> '''
+X 10
+X,Y,Z 10 20 30
+a Python
+b Python
+c Python
+PS D:\python programmming>  '''
 
 
