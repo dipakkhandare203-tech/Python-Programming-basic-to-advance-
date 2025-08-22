@@ -37,7 +37,7 @@ Each topic has its own folder with well-documented code examples:
 ## 🚀 How to Use?
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/python-zero-to-hero.git
+   git clone https://github.com/dipakkhandare203-tech/Python-Programming-basic-to-advance-.git
 
 2. Navigate into the folder:
 
